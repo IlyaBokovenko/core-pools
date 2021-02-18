@@ -1,0 +1,18 @@
+{
+    "name": "com.chillwaters.pooling.editor.tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1707f3515cf032b469eba52b448f8c9e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

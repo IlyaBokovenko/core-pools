@@ -1,0 +1,12 @@
+{
+  "name": "com.chillwaters.pools",
+  "version": "0.1.0",
+  "displayName": "CW Pools",
+  "description": "Memory pools taken from https://github.com/modesttree/Zenject project in a format of NPM package",
+  "unity": "2019.4",
+  "unityRelease": "18f1",
+  "author": {
+    "name": "Ilya Bokovenko",
+    "email": "chill.waters@gmail.com"
+  }
+}
